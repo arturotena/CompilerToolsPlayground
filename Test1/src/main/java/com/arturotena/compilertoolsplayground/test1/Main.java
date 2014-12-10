@@ -21,7 +21,7 @@ import javax.tools.ToolProvider;
 
 /**
  * Print the class name of the javax.tools.JavaCompiler and the source versions
- * supported.
+ * it supports.
  *
  * @author Arturo Tena <http://arturotena.com>
  */
